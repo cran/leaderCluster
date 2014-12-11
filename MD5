@@ -1,0 +1,5 @@
+3c6632a7bc590a5aa7c41cd7df7141cf *DESCRIPTION
+d3e059e011c7703d0369e8435b89dc4b *NAMESPACE
+0a1844d49b8b9a5fc1412f35eaf19441 *R/leaderCluster.R
+1acbc6c5d34f3eb07d43db5eabc2c2f4 *man/leaderCluster.Rd
+022b595901d777ada9ba914813be40fa *src/leaderCluster.cpp
