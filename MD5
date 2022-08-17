@@ -1,5 +1,8 @@
-3c6632a7bc590a5aa7c41cd7df7141cf *DESCRIPTION
-d3e059e011c7703d0369e8435b89dc4b *NAMESPACE
-0a1844d49b8b9a5fc1412f35eaf19441 *R/leaderCluster.R
-1acbc6c5d34f3eb07d43db5eabc2c2f4 *man/leaderCluster.Rd
-022b595901d777ada9ba914813be40fa *src/leaderCluster.cpp
+b3b4f49519ddc7694f64c23550656699 *DESCRIPTION
+7e72b07e54941bea83a2a4e3c1b9c7d5 *NAMESPACE
+142cf97fce93b5455e47f318278776b1 *R/leaderCluster.R
+69879d71b9d3863d19a04625c00d10aa *README.md
+6815b530c5506f8a94affdbcd3067c41 *man/leaderCluster.Rd
+2a1bce164485a073d93fd8954ef55dee *src/ctest.h
+ba94691c579c49586fd59f9900caa608 *src/init.c
+40457fbfcdda3abf2688292e9c5318e4 *src/leaderCluster.c
